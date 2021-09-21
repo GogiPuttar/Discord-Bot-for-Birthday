@@ -5,6 +5,6 @@ I'd recommend watching [this tutorial](https://www.youtube.com/watch?v=SPTfmiYiu
 
 **The objective of this project is to create a template by which the user can follow said tutorial with minimal writing of code or understanding of the algorithms.**
 
-To add the original discord bot to your server (**NSFW WARNING!**), use [this link](https://discord.com/api/oauth2/authorize?client_id=843365060684546089&permissions=534723947584&scope=bot).  
+To add the original discord bot to your server (**WARNING! PARENTAL GUIDANCE**), use [this link](https://discord.com/api/oauth2/authorize?client_id=843365060684546089&permissions=534723947584&scope=bot).  
 
 This project is GPL-3.0 Liscenced to Aditya Nair under GogiPuttar
